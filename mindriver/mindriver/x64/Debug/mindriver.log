@@ -1,6 +1,6 @@
 ﻿  Building 'mindriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
   Stamping x64\Debug\mindriver.inf
-  Stamping [Version] section with DriverVer=08/12/2021,15.5.34.184
+  Stamping [Version] section with DriverVer=08/24/2021,20.28.16.379
 C:\Users\Lkap\Projects\Driver_Minifilter\mindriver\mindriver\mindriver.inf : warning 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
 C:\Users\Lkap\Projects\Driver_Minifilter\mindriver\mindriver\mindriver.inf(5-5): warning 1324: [Version] section should specify PnpLockdown=1.
 C:\Users\Lkap\Projects\Driver_Minifilter\mindriver\mindriver\mindriver.inf(21-21): warning 1421: Section [DefaultInstall] should have an architecture decoration.
